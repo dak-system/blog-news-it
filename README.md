@@ -1,4 +1,4 @@
-# blog-news-it
+# Blog News DakNews
 This is a blog app built with Next.js and Sanity as CMS. Explore interesting topics, categories and articles.
 # Features 🚀
 
@@ -44,7 +44,7 @@ npm run dev
 Nguyễn Hoàng Hiếu 0941470222
 
 **Thông tin:**
-- Hoàng Quốc Tuấn: [hoangquoctuan.net](http://hoangquoctuan.net)
-- Quản lý: Công ty thiết kế web tại Đắk Lắk [daksystem.net](http://daksystem.net)
-- Thiết kế website tại Đắk Lắk: [dakdesign.net](http://dakdesign.net)
+- [Hoàng Quốc Tuấn](http://hoangquoctuan.net)
+- [Công ty thiết kế web tại Đắk Lắk](http://daksystem.net)
+- [Thiết kế website tại Đắk Lắk](http://dakdesign.net)
 
